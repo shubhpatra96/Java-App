@@ -25,4 +25,11 @@ public class HelloWorldController {
         return mav;
     }
 
+    @RequestMapping("us")
+    
+    public ModelAndView welcome(){ 
+        ModelAndView mv = new ModelAndView("us");
+        return mv;
+    }
+
 }
