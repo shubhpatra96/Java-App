@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>My Registration Form</title>
+<title>Registration Form</title>
 </head>
 <body background="/resources/image-1.gif">
 <h1 style="color: white">Registration Form</h1>
