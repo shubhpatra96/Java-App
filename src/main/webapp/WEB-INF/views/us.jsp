@@ -7,7 +7,7 @@
 <title>Registration Form</title>
 </head>
 <body background="/resources/image-1.gif">
-<h1 style="color: white">Registeration Form</h1>
+<h1 style="color: white">Registration Form</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
